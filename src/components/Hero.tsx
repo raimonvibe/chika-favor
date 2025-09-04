@@ -1,6 +1,6 @@
 import { ArrowDown, Palette, Figma, Camera, Layers, Zap, Download } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import profileImage from "@/assets/chika-profile.jpg";
+import profileImage from "@/assets/chika.jpg";
 
 const Hero = () => {
   const scrollToAbout = () => {
