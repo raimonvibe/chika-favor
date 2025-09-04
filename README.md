@@ -1,3 +1,4 @@
+![Chika Favor Portfolio Screenshot](/chika.png)
 
 # Chika Favor — Graphic Designer Portfolio
 
